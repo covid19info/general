@@ -46,8 +46,11 @@ I'm just throwing information out here for now, need community to help me add an
 - [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
 ## surface disinfectants
-The [list of EPA approved Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) is, in general, sold out on Amazon.  However, you can look up the same ingredients in other formulations.
-Get a spray bottle (glass for bleach, dark glass for H2O2) and spray these:
+See [CDC disinfection guidance](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html).
+
+The [list of EPA approved Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) is, in general, sold out on Amazon.  However, you can look up the same ingredients in other formulations.  In particular, quaternary ammonium is available in tablet form and seems generally more portable than other ingredients.
+
+Get a spray bottle (glass for bleach, dark glass for H2O2) and spray something like this:
 - 70% ethanol
 - 70% isopropyl alcohol (higher % is less effective due to reduced dwell time)
 - 0.1% sodium hypochlorite (bleach)
