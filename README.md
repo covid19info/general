@@ -2,12 +2,12 @@ Are you on a mobile phone?  Click "View all of README.md" below.
 
 I'm just throwing information out here for now, need community to help me add and organize.
 
-# communities
+# Communities
 - [reddit topic: coronavirus](https://www.reddit.com/t/coronavirus/)
 - [reddit subreddit: Coronavirus](https://www.reddit.com/r/Coronavirus/)
 - [facebook coronavirus discussion group](https://www.facebook.com/groups/coronavirus.discussion/)
 
-# general facts / misc overviews
+# General facts / misc overviews
 - [UCSF BioHub Panel on Covid-19](https://everythingsouthcity.com/2020/03/university-of-california-san-francisco-biohub-panel-on-covid-19-march-10-2020/)
 - [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
@@ -16,32 +16,35 @@ I'm just throwing information out here for now, need community to help me add an
 - [Center for Disease Control site](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 - [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
-# caring for the sick
+# Caring for the sick
 - [Wuhan An Infected Emergency Room Nurse with Coronavirus playlist](https://www.youtube.com/playlist?list=PL1eJNLdc8PSw9CSCr6GvN7-L-4DFjybYJ)
 - Get a blood oximeter ($20 on Amazon) and hospitalize immediately if the patient sustains under 85% O2
 
-# calls to action / wake up
+# Calls to action / wake up
 - [urgent messages from Italians under quarantine](https://www.youtube.com/watch?v=nMY0-4p9P-M)
 
-# prevention
+# Prevention
 - [List of Personal Things You Can Do to Stay Well in a Time of CoVID19](https://medium.com/@radiorupa/list-of-personal-things-you-can-do-to-stay-well-in-a-time-of-covid19-cd10ff0df106)
 - [CDC prevention tips](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
-# financial matters
+# Finances
 - [defensive portfolio allocation for Covid-19](https://disorthodox.wordpress.com/2020/03/16/portfolio-allocation-for-covid-19/)
 
-# end of life planning
+# End of life planning
 - [how to prepare for unexpected emergencies and death](https://disorthodox.wordpress.com/2019/09/25/how-to-prepare-for-emergencies-and-unexpected-death/)
 
-# epidemiology
+# Epidemiology
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 - [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
 - [daily growth rate of diagnosed cases, by country](https://docs.google.com/spreadsheets/d/1eBv080HBl3zep1z2snnd4geK5oesI4Mvg44Qrhosma4/edit?usp=sharing)
 
-# preparation
-- consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&i=tools&s=review-rank&qid=1584420959&ref=sr_st_review-rank) instead of toilet paper
+# Preparation
+- consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&s=review-rank&ref=sr_st_review-rank) instead of toilet paper
 ## masks
-- Evidence suggests that since the general public isn’t trained on how to properly wear or dispose of masks, the benefit of wearing one is low, and the CDC doesn’t recommend it
+- evidence suggests that since the general public isn’t trained on how to properly wear or dispose of fitted masks (N95)
+- the benefit of wearing one is low (unless you are around the infected)
+- the CDC doesn’t recommend it
+- anything to keep you from touching your mouth/noses/eyes is good though
 ## handwashing
 - [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
@@ -58,7 +61,7 @@ Get a spray bottle (glass for bleach, dark glass for H2O2) and spray something l
 
 # public announcements / closures
 - [Who is staying home due to Covid-19](https://stayinghome.club/)
-- 
+- [Public HR comms & Resources Guide](https://docs.google.com/document/d/12tT0_5zGELxs7M-iCwf9enUJ0-Ibe0K8tkBSbbWhYFM/edit)
 
 # meta issues
 - get help administering this github org
