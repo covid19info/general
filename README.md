@@ -38,6 +38,7 @@ I'm just throwing information out here for now, need community to help me add an
 # epidemiology
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 - [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
+- [daily growth rate of diagnosed cases, by country](https://docs.google.com/spreadsheets/d/1eBv080HBl3zep1z2snnd4geK5oesI4Mvg44Qrhosma4/edit?usp=sharing)
 
 # preparation
 - consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&i=tools&s=review-rank&qid=1584420959&ref=sr_st_review-rank) instead of toilet paper
