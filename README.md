@@ -17,6 +17,7 @@ I'm just throwing information out here for now, need community to help me add an
 
 # caring for the sick
 - [Wuhan An Infected Emergency Room Nurse with Coronavirus playlist](https://www.youtube.com/playlist?list=PL1eJNLdc8PSw9CSCr6GvN7-L-4DFjybYJ)
+- Get a blood oximeter ($20 on Amazon) and hospitalize immediately if the patient sustains under 85% O2
 
 # calls to action / wake up
 - [urgent messages from Italians under quarantine](https://www.youtube.com/watch?v=nMY0-4p9P-M)
@@ -42,6 +43,7 @@ I'm just throwing information out here for now, need community to help me add an
 - [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
 ## surface disinfectants
+Get a spray bottle (glass for bleach, dark glass for H2O2) and spray these:
 - 70% ethanol
 - 70% isopropyl alcohol
 - 0.1% sodium hypochlorite (bleach)
