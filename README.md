@@ -14,3 +14,7 @@ general information
 # numerical analysis
 - [Coronavirus: Why You Must Act Now
 Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
+# financial matters
+- [defensive portfolio allocation for Covid-19](https://disorthodox.wordpress.com/2020/03/16/portfolio-allocation-for-covid-19/)
+- [how to prepare for unexpected emergencies and death](https://disorthodox.wordpress.com/2019/09/25/how-to-prepare-for-emergencies-and-unexpected-death/)
