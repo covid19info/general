@@ -19,3 +19,6 @@ San Francisco Bay Area resources
 ## online
 - sites are either sold out or crashing due to demand
 - https://zeroshop.co/
+
+# assistance
+- [oakland at risk matches young people and the at-risk group for help](https://www.oaklandatrisk.com/)
