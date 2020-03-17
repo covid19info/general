@@ -23,7 +23,7 @@ general information
 
 # meta
 - get help administering this github org
-- get help publishing this to places / social media
-- convert to a hugo website
+- get help publishing this to places / social media (reddit auto-moderates my posts)
+- convert to a [hugo](https://gohugo.io/) generated website
 - use [drone](https://drone.io/) to create static site from this to /docs
 - github automatically publishes to username.github.com/project
