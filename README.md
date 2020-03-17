@@ -1,5 +1,12 @@
 # general
-general information
+I'm just throwing information out here for now, need community to help me add and organize.
+
+# meta
+- get help administering this github org
+- get help publishing this to places / social media (reddit auto-moderates my posts)
+- convert to a [hugo](https://gohugo.io/) generated website
+- use [drone](https://drone.io/) to create static site from this to /docs
+- github automatically publishes to username.github.com/project
 
 # communities
 - [reddit topic: coronavirus](https://www.reddit.com/t/coronavirus/)
@@ -25,9 +32,4 @@ general information
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 - [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
 
-# meta
-- get help administering this github org
-- get help publishing this to places / social media (reddit auto-moderates my posts)
-- convert to a [hugo](https://gohugo.io/) generated website
-- use [drone](https://drone.io/) to create static site from this to /docs
-- github automatically publishes to username.github.com/project
+
