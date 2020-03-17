@@ -10,3 +10,7 @@ general information
 
 # calls to action / wake up
 - [urgent messages from italians under quarantine](https://www.youtube.com/watch?v=nMY0-4p9P-M)
+
+# numerical analysis
+- [Coronavirus: Why You Must Act Now
+Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
