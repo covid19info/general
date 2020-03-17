@@ -2,13 +2,6 @@ Are you on a mobile phone?  Click "View all of README.md" below.
 
 I'm just throwing information out here for now, need community to help me add and organize.
 
-# meta
-- get help administering this github org
-- get help publishing this to places / social media (reddit auto-moderates my posts)
-- convert to a [hugo](https://gohugo.io/) generated website
-- use [drone](https://drone.io/) to create static site from this to /docs
-- github automatically publishes to username.github.com/project
-
 # communities
 - [reddit topic: coronavirus](https://www.reddit.com/t/coronavirus/)
 - [reddit subreddit: Coronavirus](https://www.reddit.com/r/Coronavirus/)
@@ -17,6 +10,11 @@ I'm just throwing information out here for now, need community to help me add an
 # general facts / misc overviews
 - [UCSF BioHub Panel on Covid-19](https://everythingsouthcity.com/2020/03/university-of-california-san-francisco-biohub-panel-on-covid-19-march-10-2020/)
 - [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
+# Frequently Asked Questions
+- [International SOS FAQs](https://pandemic.internationalsos.com/2019-ncov/ncov-faqs)
+- [Center for Disease Control site](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+- [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
 # caring for the sick
 - [Wuhan An Infected Emergency Room Nurse with Coronavirus playlist](https://www.youtube.com/playlist?list=PL1eJNLdc8PSw9CSCr6GvN7-L-4DFjybYJ)
@@ -42,6 +40,8 @@ I'm just throwing information out here for now, need community to help me add an
 
 # preparation
 - consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&i=tools&s=review-rank&qid=1584420959&ref=sr_st_review-rank) instead of toilet paper
+## masks
+- Evidence suggests that since the general public isn’t trained on how to properly wear or dispose of masks, the benefit of wearing one is low, and the CDC doesn’t recommend it
 ## handwashing
 - [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
@@ -55,3 +55,14 @@ Get a spray bottle (glass for bleach, dark glass for H2O2) and spray something l
 - 70% isopropyl alcohol (higher % is less effective due to reduced dwell time)
 - 0.1% sodium hypochlorite (bleach)
 - 0.5% hydrogen peroxide (still readily available)
+
+# public announcements / closures
+- [Who is staying home due to Covid-19](https://stayinghome.club/)
+- 
+
+# meta issues
+- get help administering this github org
+- get help publishing this to places / social media (reddit auto-moderates my posts)
+- convert to a [hugo](https://gohugo.io/) generated website
+- use [drone](https://drone.io/) to create static site from this to /docs
+- github automatically publishes to username.github.com/project
