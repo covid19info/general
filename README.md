@@ -35,4 +35,6 @@ I'm just throwing information out here for now, need community to help me add an
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 - [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
 
+# preparation
+- consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&i=tools&s=review-rank&qid=1584420959&ref=sr_st_review-rank) instead of toilet paper
 
