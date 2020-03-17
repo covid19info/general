@@ -1,4 +1,3 @@
-# general
 Are you on a mobile phone?  Click "View all of README.md" below.
 
 I'm just throwing information out here for now, need community to help me add and organize.
@@ -15,6 +14,10 @@ I'm just throwing information out here for now, need community to help me add an
 - [reddit subreddit: Coronavirus](https://www.reddit.com/r/Coronavirus/)
 - [facebook coronavirus discussion group](https://www.facebook.com/groups/coronavirus.discussion/)
 
+# general facts / misc overviews
+- [UCSF BioHub Panel on Covid-19](https://everythingsouthcity.com/2020/03/university-of-california-san-francisco-biohub-panel-on-covid-19-march-10-2020/)
+- [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
 # caring for the sick
 - [Wuhan An Infected Emergency Room Nurse with Coronavirus playlist](https://www.youtube.com/playlist?list=PL1eJNLdc8PSw9CSCr6GvN7-L-4DFjybYJ)
 - Get a blood oximeter ($20 on Amazon) and hospitalize immediately if the patient sustains under 85% O2
@@ -24,7 +27,7 @@ I'm just throwing information out here for now, need community to help me add an
 
 # prevention
 - [List of Personal Things You Can Do to Stay Well in a Time of CoVID19](https://medium.com/@radiorupa/list-of-personal-things-you-can-do-to-stay-well-in-a-time-of-covid19-cd10ff0df106)
-- [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
 
 # financial matters
 - [defensive portfolio allocation for Covid-19](https://disorthodox.wordpress.com/2020/03/16/portfolio-allocation-for-covid-19/)
@@ -45,6 +48,6 @@ I'm just throwing information out here for now, need community to help me add an
 ## surface disinfectants
 Get a spray bottle (glass for bleach, dark glass for H2O2) and spray these:
 - 70% ethanol
-- 70% isopropyl alcohol
+- 70% isopropyl alcohol (higher % is less effective due to reduced dwell time)
 - 0.1% sodium hypochlorite (bleach)
 - 0.5% hydrogen peroxide (still readily available)
