@@ -20,3 +20,10 @@ general information
 
 # end of life planning
 - [how to prepare for unexpected emergencies and death](https://disorthodox.wordpress.com/2019/09/25/how-to-prepare-for-emergencies-and-unexpected-death/)
+
+# meta
+- get help administering this github org
+- get help publishing this to places / social media
+- convert to a hugo website
+- use [drone](https://drone.io/) to create static site from this to /docs
+- github automatically publishes to username.github.com/project
