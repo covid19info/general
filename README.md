@@ -19,7 +19,8 @@ I'm just throwing information out here for now, need community to help me add an
 # calls to action / wake up
 - [urgent messages from Italians under quarantine](https://www.youtube.com/watch?v=nMY0-4p9P-M)
 
-# numerical analysis
+# prevention
+- [List of Personal Things You Can Do to Stay Well in a Time of CoVID19](https://medium.com/@radiorupa/list-of-personal-things-you-can-do-to-stay-well-in-a-time-of-covid19-cd10ff0df106)
 - [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 # financial matters
