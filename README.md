@@ -1,4 +1,5 @@
 # general
+Are you on a mobile phone?  Click "View all of README.md" below.
 I'm just throwing information out here for now, need community to help me add and organize.
 
 # meta
