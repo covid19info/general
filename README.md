@@ -21,6 +21,9 @@ general information
 # end of life planning
 - [how to prepare for unexpected emergencies and death](https://disorthodox.wordpress.com/2019/09/25/how-to-prepare-for-emergencies-and-unexpected-death/)
 
+# epidemiology
+- [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
+
 # meta
 - get help administering this github org
 - get help publishing this to places / social media (reddit auto-moderates my posts)
