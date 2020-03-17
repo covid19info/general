@@ -37,4 +37,12 @@ I'm just throwing information out here for now, need community to help me add an
 
 # preparation
 - consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&i=tools&s=review-rank&qid=1584420959&ref=sr_st_review-rank) instead of toilet paper
-
+- [CDC prevention tips](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
+## handwashing
+- [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
+- [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
+## surface disinfectants
+- 70% ethanol
+- 70% isopropyl alcohol
+- 0.1% sodium hypochlorite (bleach)
+- 0.5% hydrogen peroxide (still readily available)
