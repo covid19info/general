@@ -46,9 +46,9 @@ I'm just throwing information out here for now, need community to help me add an
 - [WHO on handwashing](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC handwashing](https://www.cdc.gov/handwashing/when-how-handwashing.html)
 ## surface disinfectants
+The [list of EPA approved Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) is, in general, sold out on Amazon.  However, you can look up the same ingredients in other formulations.
 Get a spray bottle (glass for bleach, dark glass for H2O2) and spray these:
 - 70% ethanol
 - 70% isopropyl alcohol (higher % is less effective due to reduced dwell time)
 - 0.1% sodium hypochlorite (bleach)
 - 0.5% hydrogen peroxide (still readily available)
-The [list of EPA approved Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) is, in general, sold out on Amazon.  However, you can look up the same ingredients in other formulations.
