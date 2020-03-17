@@ -2,7 +2,8 @@
 general information
 
 # communities
-- [reddit /t/coronavirus](https://www.reddit.com/t/coronavirus/)
+- [reddit topic: coronavirus](https://www.reddit.com/t/coronavirus/)
+- [reddit subreddit: Coronavirus](https://www.reddit.com/r/Coronavirus/)
 - [facebook coronavirus discussion group](https://www.facebook.com/groups/coronavirus.discussion/)
 
 # caring for the sick
