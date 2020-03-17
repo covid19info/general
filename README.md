@@ -51,3 +51,4 @@ Get a spray bottle (glass for bleach, dark glass for H2O2) and spray these:
 - 70% isopropyl alcohol (higher % is less effective due to reduced dwell time)
 - 0.1% sodium hypochlorite (bleach)
 - 0.5% hydrogen peroxide (still readily available)
+The [list of EPA approved Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) is, in general, sold out on Amazon.  However, you can look up the same ingredients in other formulations.
