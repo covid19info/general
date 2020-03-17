@@ -23,6 +23,7 @@ general information
 
 # epidemiology
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
+- [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
 
 # meta
 - get help administering this github org
