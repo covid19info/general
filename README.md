@@ -35,7 +35,7 @@ I'm just throwing information out here for now, need community to help me add an
 ## Investing
 - [defensive portfolio allocation for Covid-19](https://disorthodox.wordpress.com/2020/03/16/portfolio-allocation-for-covid-19/)
 ## Emergency Help
-- [United Way](https://www.prnewswire.com/news-releases/united-way-worldwide-launches-covid-19-community-response-and-recovery-fund-301025626.html)
+- [United Way - call 211 for local resources](http://211.org/services/covid19)
 - [Expensify.org will reimburse families on SNAP benefits to purchase additional essential goods](https://www.expensify.org/hunger)
 
 # End of life planning
