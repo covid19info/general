@@ -22,6 +22,7 @@ I'm just throwing information out here for now, need community to help me add an
 - Get a blood oximeter ($20 on Amazon) and hospitalize immediately if the patient sustains under 85% O2
 - [Psychological first aid course](https://www.coursera.org/learn/psychological-first-aid)
 - [World Health Organization says avoid ibuprofen](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms)
+- [Covid-19 survivor describes it as cold then flu then pneumonia](https://www.youtube.com/watch?v=G9oqvJ3iXGI)
 
 # Calls to action / wake up
 - [urgent messages from Italians under quarantine](https://www.youtube.com/watch?v=nMY0-4p9P-M)
