@@ -32,7 +32,11 @@ I'm just throwing information out here for now, need community to help me add an
 - [CDC prevention tips](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
 
 # Finances
+## Investing
 - [defensive portfolio allocation for Covid-19](https://disorthodox.wordpress.com/2020/03/16/portfolio-allocation-for-covid-19/)
+## Emergency Help
+- [United Way](https://www.prnewswire.com/news-releases/united-way-worldwide-launches-covid-19-community-response-and-recovery-fund-301025626.html)
+- [Expensify.org will reimburse families on SNAP benefits to purchase additional essential goods](https://www.expensify.org/hunger)
 
 # End of life planning
 - [how to prepare for unexpected emergencies and death](https://disorthodox.wordpress.com/2019/09/25/how-to-prepare-for-emergencies-and-unexpected-death/)
