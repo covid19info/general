@@ -17,6 +17,7 @@ I'm just throwing information out here for now, need community to help me add an
 - [International SOS FAQs](https://pandemic.internationalsos.com/2019-ncov/ncov-faqs)
 - [Center for Disease Control site](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 - [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- [Do I need to worry about shopping for groceries and receiving packages?](https://slate.com/human-interest/2020/03/coronavirus-grocery-shopping-best-practices-explained.html)
 
 # Caring for the sick
 - [Wuhan An Infected Emergency Room Nurse with Coronavirus playlist](https://www.youtube.com/playlist?list=PL1eJNLdc8PSw9CSCr6GvN7-L-4DFjybYJ)
