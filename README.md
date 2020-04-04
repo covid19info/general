@@ -32,6 +32,14 @@ I'm just throwing information out here for now, need community to help me add an
 # Prevention
 - [List of Personal Things You Can Do to Stay Well in a Time of CoVID19](https://medium.com/@radiorupa/list-of-personal-things-you-can-do-to-stay-well-in-a-time-of-covid19-cd10ff0df106)
 - [CDC prevention tips](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)
+## HEPA filters
+I've done some research into HEPA filters.   I think it's not entirely clear at the moment whether SARS-Cov-2 is communicable only by droplets or also by aeresolized droplet nuclei, but HEPA should reduce droplets and would probably reduce droplet nuclei extremely well.
+Attached figure is from a NASA study on using HEPA filters to reduce submicron and nanoparticulate matter.  See the graph on page 7.
+- Droplet nuclei: 1-5µm
+- HEPA filters = filter 99.95% of 3µm (microns) and up
+- respirable droplets = <10 µm
+- inspirable droplets = 10–100 µm
+- [Submicron and Nanoparticulate Matter Removal by HEPA-Rated Media Filters and Packed Beds of Granular Materials](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170005166.pdf)
 
 # Finances
 ## Investing
