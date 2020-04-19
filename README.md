@@ -12,6 +12,8 @@ I'm just throwing information out here for now, need community to help me add an
 - [UCSF BioHub Panel on Covid-19](https://everythingsouthcity.com/2020/03/university-of-california-san-francisco-biohub-panel-on-covid-19-march-10-2020/)
 - [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [The sober math everyone must understand behind the pandemic](https://medium.com/@Jason_Scott_Warner/the-sober-math-everyone-must-understand-about-the-pandemic-2b0145881993)
+- [covid-19 primer weekly briefing](https://primer.ai/blog/covid-19-primer-weekly-briefing/)
+
 
 # Frequently Asked Questions
 - [International SOS FAQs](https://pandemic.internationalsos.com/2019-ncov/ncov-faqs)
