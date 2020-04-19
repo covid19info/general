@@ -57,6 +57,7 @@ Attached figure is from a NASA study on using HEPA filters to reduce submicron a
 - [people shed high levels of virus early, maybe even before symptoms](https://www.statnews.com/2020/03/09/people-shed-high-levels-of-coronavirus-study-finds-but-most-are-likely-not-infectious-after-recovery-begins/)
 - [Johns Hopkins: Coronavirus Lecture With Dr. Amesh Adalja, Johns Hopkins Senior Scholar, Tepper Alumnus](https://www.youtube.com/watch?v=ZhYcbo7rqEQ)
 - [daily growth rate of diagnosed cases, by country](https://docs.google.com/spreadsheets/d/1eBv080HBl3zep1z2snnd4geK5oesI4Mvg44Qrhosma4/edit?usp=sharing)
+- [coronavirus case counts are meaningless](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/)
 
 # Preparation
 - consider a [portable bidet](https://www.amazon.com/s?k=portable+bidet&s=review-rank&ref=sr_st_review-rank) instead of toilet paper
