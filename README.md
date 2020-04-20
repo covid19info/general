@@ -13,7 +13,7 @@ I'm just throwing information out here for now, need community to help me add an
 - [Coronavirus: Why You Must Act Now: Politicians, Community Leaders and Business Leaders: What Should You Do and When?](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [The sober math everyone must understand behind the pandemic](https://medium.com/@Jason_Scott_Warner/the-sober-math-everyone-must-understand-about-the-pandemic-2b0145881993)
 - [covid-19 primer weekly briefing](https://primer.ai/blog/covid-19-primer-weekly-briefing/)
-
+- [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/)
 
 # Frequently Asked Questions
 - [International SOS FAQs](https://pandemic.internationalsos.com/2019-ncov/ncov-faqs)
